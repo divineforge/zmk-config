@@ -1,4 +1,4 @@
-#+Title: k4i's split kbd
+#+Title: Wils' Zephyr Duality
 
 [[./README-zh_CN.org][中文]] | English
 
