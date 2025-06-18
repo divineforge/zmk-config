@@ -1,4 +1,8 @@
-on: [push, pull_request, workflow_dispatch]
+on: 
+  # commented `push` trigger to reduce unnecessary build
+  # - push
+  - pull_request
+  - workflow_dispatch
 
 jobs:
   build:
