@@ -1,3 +1,5 @@
+name: ZMK KBD ZephyrBuild
+
 on: 
   # commented `push` trigger to reduce unnecessary build
   # - push
